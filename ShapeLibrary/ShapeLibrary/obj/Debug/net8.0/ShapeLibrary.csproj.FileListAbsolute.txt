@@ -1,0 +1,23 @@
+D:\Work\Test tasks\ShapeLibrary\ShapeLibrary\bin\Debug\net8.0\ShapeLibrary.deps.json
+D:\Work\Test tasks\ShapeLibrary\ShapeLibrary\bin\Debug\net8.0\ShapeLibrary.dll
+D:\Work\Test tasks\ShapeLibrary\ShapeLibrary\bin\Debug\net8.0\ShapeLibrary.pdb
+D:\Work\Test tasks\ShapeLibrary\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Test tasks\ShapeLibrary\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.AssemblyInfoInputs.cache
+D:\Work\Test tasks\ShapeLibrary\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.AssemblyInfo.cs
+D:\Work\Test tasks\ShapeLibrary\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.csproj.CoreCompileInputs.cache
+D:\Work\Test tasks\ShapeLibrary\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.dll
+D:\Work\Test tasks\ShapeLibrary\ShapeLibrary\obj\Debug\net8.0\refint\ShapeLibrary.dll
+D:\Work\Test tasks\ShapeLibrary\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.pdb
+D:\Work\Test tasks\ShapeLibrary\ShapeLibrary\obj\Debug\net8.0\ref\ShapeLibrary.dll
+D:\Work\Work\ShapeLibrary\ShapeLibrary\bin\Debug\net8.0\ShapeLibrary.deps.json
+D:\Work\Work\ShapeLibrary\ShapeLibrary\bin\Debug\net8.0\ShapeLibrary.dll
+D:\Work\Work\ShapeLibrary\ShapeLibrary\bin\Debug\net8.0\ShapeLibrary.pdb
+D:\Work\Work\ShapeLibrary\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Work\ShapeLibrary\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.AssemblyInfoInputs.cache
+D:\Work\Work\ShapeLibrary\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.AssemblyInfo.cs
+D:\Work\Work\ShapeLibrary\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.csproj.CoreCompileInputs.cache
+D:\Work\Work\ShapeLibrary\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.sourcelink.json
+D:\Work\Work\ShapeLibrary\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.dll
+D:\Work\Work\ShapeLibrary\ShapeLibrary\obj\Debug\net8.0\refint\ShapeLibrary.dll
+D:\Work\Work\ShapeLibrary\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.pdb
+D:\Work\Work\ShapeLibrary\ShapeLibrary\obj\Debug\net8.0\ref\ShapeLibrary.dll
